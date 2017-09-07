@@ -1,6 +1,6 @@
 # SuffixTreeWordsParser
 ### Task decription:
-It is required to develop a module capable of splitting compound German words into parts, if possible.
+It is necessary to develop a module, which is capable of separating compound German words into parts, if it is possible.
 
 For example:
 
