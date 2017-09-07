@@ -4,11 +4,11 @@ It is necessary to develop a module, which is capable of separating compound Ger
 
 For example:
 
-(in) psychologie -> (out) psychologie // a word that can not be broken.
+(in) psychologie -> (out) psychologie // a word that can not be separated.
 
 (in) krankenhaus -> (out) kranken, house.
 
-The main target metric: performance.
+Primary target metric: performance.
 Speed: up to 0.2 ms per word.
 
 To perform, you will need: a dictionary, a list of test words (in the application).
