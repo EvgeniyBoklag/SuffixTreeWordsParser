@@ -28,7 +28,7 @@ namespace SuffixTreeWordsParser
             // ReSharper disable once PossibleLossOfFraction
             var res = (float) ((DateTime.Now.Ticks - dt)/words.Count())/10000;
 
-            Console.WriteLine("Result count = " + parser.Result.Count);
+            Console.WriteLine("Result, words count = " + parser.Result.Count);
             Console.WriteLine("Spent time = " + res + "ms.");
             parser.SaveParseResult("suffTreeResult.txt");
             Console.WriteLine("press any key and enter to exit..");
