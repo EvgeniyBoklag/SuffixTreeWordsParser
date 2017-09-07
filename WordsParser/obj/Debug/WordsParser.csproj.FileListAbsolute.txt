@@ -1,0 +1,12 @@
+C:\Work\Tests\JoobleTest\WordsParser\bin\Debug\de-test-words.tsv
+C:\Work\Tests\JoobleTest\WordsParser\bin\Debug\dict
+C:\Work\Tests\JoobleTest\WordsParser\bin\Debug\WordsParser.exe.config
+C:\Work\Tests\JoobleTest\WordsParser\bin\Debug\WordsParser.exe
+C:\Work\Tests\JoobleTest\WordsParser\bin\Debug\WordsParser.pdb
+C:\Work\Tests\JoobleTest\WordsParser\bin\Debug\Core.dll
+C:\Work\Tests\JoobleTest\WordsParser\bin\Debug\Core.pdb
+C:\Work\Tests\JoobleTest\WordsParser\obj\Debug\WordsParser.csprojResolveAssemblyReference.cache
+C:\Work\Tests\JoobleTest\WordsParser\obj\Debug\WordsParser.exe
+C:\Work\Tests\JoobleTest\WordsParser\obj\Debug\WordsParser.pdb
+C:\Work\Tests\JoobleTest\WordsParser\bin\Debug\WordsParser.exe.CodeAnalysisLog.xml
+C:\Work\Tests\JoobleTest\WordsParser\bin\Debug\WordsParser.exe.lastcodeanalysissucceeded

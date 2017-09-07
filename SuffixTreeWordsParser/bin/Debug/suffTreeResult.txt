@@ -1,0 +1,56 @@
+arbeitsamt : arbeit, samt | arbeits, amt 
+krankenhaus : kranken, haus 
+kraftfahrer : kraft, fahrer 
+teilzeit : teil, zeit 
+erzieherin :
+verkäuferin :
+sekretärin :
+arzthelferin :
+marketing :
+meister :
+küchenhilfe : küchen, hilfe 
+reinigungskraft :
+bundeswehr :
+sozialarbeit :
+praktikum :
+rathaus : rat, haus 
+bürokraft : büro, kraft 
+soziale :
+bürokauffrau : büro, kauf, frau 
+kaufmann : kauf, mann 
+kindergarten : kinder, garten 
+klinikum :
+hausmeister :
+lebensmittel :
+lebenshilfe : lebens, hilfe 
+heimarbeit : heim, arbeit 
+zeitung :
+berufskraftfahrer : berufs, kraft, fahrer 
+flughafen : flug, hafen 
+altenpflegerin :
+heilerziehungspfleger :
+bankkauffrau : bank, kauf, frau 
+einzelhandel :
+altenheim : alten, heim 
+buchhalter :
+gastronomie :
+altenpflege : alten, pflege 
+versicherung :
+feuerwehr :
+zeitarbeit : zeit, arbeit 
+weihnachtsmarkt :
+bautechniker :
+staplerfahrer : stapler, fahrer 
+lagerlogistik :
+tageszeitung :
+bauzeichner :
+stadtwerke :
+polizei :
+ingenieur :
+immobilien :
+landratsamt : land, rat, samt 
+assistenzarzt : assistenz, arzt 
+textil :
+bildung :
+fotograf : foto, graf 
+volksbank : volks, bank 

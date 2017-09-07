@@ -1,0 +1,10 @@
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\bin\Debug\SuffixTreeWordsParser.exe.config
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\bin\Debug\de-test-words.tsv
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\bin\Debug\dict
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\bin\Debug\SuffixTreeWordsParser.exe
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\bin\Debug\SuffixTreeWordsParser.pdb
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\bin\Debug\Core.dll
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\bin\Debug\Core.pdb
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\obj\Debug\SuffixTreeWordsParser.csprojResolveAssemblyReference.cache
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\obj\Debug\SuffixTreeWordsParser.exe
+C:\Work\Tests\JoobleTest\SuffixTreeWordsParser\obj\Debug\SuffixTreeWordsParser.pdb
